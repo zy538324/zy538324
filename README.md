@@ -1,7 +1,7 @@
 Welcome to My GitHub Profile! 👨‍💻
 About Me
 
-Hi there! 👋 I’m a BSc Honours CyberSecurity graduate from the Open University, and I’m preparing to begin my MSc in CyberSecurity. I’m passionate about learning, exploring, and contributing to the ever-evolving world of cybersecurity.
+Hi there! 👋 I’m a BSc Honours CyberSecurity graduate from the Open University. I’m passionate about learning, exploring, and contributing to the ever-evolving world of cybersecurity.
 
 🔒 What Drives Me?
 I’m deeply committed to understanding the intricacies of cybersecurity, from ethical hacking to network security, and ensuring safe digital environments for everyone.
@@ -23,6 +23,8 @@ Enhancing skills in Python and PowerShell for automation and security tasks.
 Developing tools for vulnerability scanning and patch management.
 
 Experimenting with virtualised environments (Hyper-V, OpenWRT) for hands-on security scenarios.
+
+I am currently working on an Antivirus/EDR which I intend to offer to residents of UK for free Fenrir-Security it is an ongoing project I have been developing for some time now, but it seems to be getting ever closer to testing and release.
 
 Skills and Interests 🛠️
 
